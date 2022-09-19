@@ -1,0 +1,15 @@
+C:\Users\yuri.ramos.f.souza\source\repos\SomaMultiplos\SomaMultiplos\bin\Debug\net6.0\SomaMultiplos.exe
+C:\Users\yuri.ramos.f.souza\source\repos\SomaMultiplos\SomaMultiplos\bin\Debug\net6.0\SomaMultiplos.deps.json
+C:\Users\yuri.ramos.f.souza\source\repos\SomaMultiplos\SomaMultiplos\bin\Debug\net6.0\SomaMultiplos.runtimeconfig.json
+C:\Users\yuri.ramos.f.souza\source\repos\SomaMultiplos\SomaMultiplos\bin\Debug\net6.0\SomaMultiplos.dll
+C:\Users\yuri.ramos.f.souza\source\repos\SomaMultiplos\SomaMultiplos\bin\Debug\net6.0\SomaMultiplos.pdb
+C:\Users\yuri.ramos.f.souza\source\repos\SomaMultiplos\SomaMultiplos\obj\Debug\net6.0\SomaMultiplos.csproj.AssemblyReference.cache
+C:\Users\yuri.ramos.f.souza\source\repos\SomaMultiplos\SomaMultiplos\obj\Debug\net6.0\SomaMultiplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuri.ramos.f.souza\source\repos\SomaMultiplos\SomaMultiplos\obj\Debug\net6.0\SomaMultiplos.AssemblyInfoInputs.cache
+C:\Users\yuri.ramos.f.souza\source\repos\SomaMultiplos\SomaMultiplos\obj\Debug\net6.0\SomaMultiplos.AssemblyInfo.cs
+C:\Users\yuri.ramos.f.souza\source\repos\SomaMultiplos\SomaMultiplos\obj\Debug\net6.0\SomaMultiplos.csproj.CoreCompileInputs.cache
+C:\Users\yuri.ramos.f.souza\source\repos\SomaMultiplos\SomaMultiplos\obj\Debug\net6.0\SomaMultiplos.dll
+C:\Users\yuri.ramos.f.souza\source\repos\SomaMultiplos\SomaMultiplos\obj\Debug\net6.0\refint\SomaMultiplos.dll
+C:\Users\yuri.ramos.f.souza\source\repos\SomaMultiplos\SomaMultiplos\obj\Debug\net6.0\SomaMultiplos.pdb
+C:\Users\yuri.ramos.f.souza\source\repos\SomaMultiplos\SomaMultiplos\obj\Debug\net6.0\SomaMultiplos.genruntimeconfig.cache
+C:\Users\yuri.ramos.f.souza\source\repos\SomaMultiplos\SomaMultiplos\obj\Debug\net6.0\ref\SomaMultiplos.dll
